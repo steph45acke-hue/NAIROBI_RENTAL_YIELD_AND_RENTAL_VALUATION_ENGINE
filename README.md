@@ -1,5 +1,6 @@
 # Nairobi Real Estate Valuation & Rental Yield Analytics Platform
 
+![Nairobi Real Estate Valuation Platform Banner](banner.png)
 ## Project Description
 This project is an end-to-end data science and software engineering platform designed to analyze, structure, model, and visualize real estate data across Nairobi. The system transitions from raw data generation and rigorous statistical diagnostics to a normalized relational database architecture, machine learning predictive modeling, and a fully interactive web application dashboard.
 
